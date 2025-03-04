@@ -115,7 +115,7 @@ sb
 &emsp;sb
 
 ```python
-# 3.3.2 换行符\t
+# 3.3.2 换行符\n
 print("NT\nSB\nNC")
 ```
 \>>>
